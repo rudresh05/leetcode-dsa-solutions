@@ -3,7 +3,7 @@
  * Link: https://leetcode.com/problems/two-sum/
  * Difficulty: Medium
  * Language: java
- * Runtime: nums | Memory: MB
+ * Runtime: (nums[i], i); | Memory: MB
  */
 
 class Solution {
